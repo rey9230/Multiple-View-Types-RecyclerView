@@ -12,6 +12,7 @@
     android:foreground="?android:attr/selectableItemBackground"
     android:layout_marginVertical="3dp">
 
+
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
